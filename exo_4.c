@@ -2,7 +2,7 @@
 int main ()
 {
     int a=0,b=0,m,s;
-    printf ("entrer deux notres\n");
+    printf ("entrer deux notes\n");
     scanf ("%d",&a);
     scanf ("%d",&b);
     s=a+b;
