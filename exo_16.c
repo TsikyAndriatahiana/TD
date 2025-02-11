@@ -17,7 +17,7 @@ int main ()
         b=b+d;
     }
     e=b;
-    printf ("la somme des factoriels est %d\n",b);
+    printf ("la somme des factoriels est %d\n",e);
     return 0;
 
 }
